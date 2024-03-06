@@ -32,8 +32,5 @@ Enter the decryption key: 5
 ## Contributions 🤝
 Contributions to this project are welcome! If you have any ideas for improvements or new features, feel free to open an issue or submit a pull request.
 
-## Credits 🙌
-This project was created with ❤️ by Kausal S D.
-
 ## License 📝
-This project not [Licensed] feel free to use
+This project not `[Licensed]`. feel free to use! ❤️ 
