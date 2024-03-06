@@ -1,4 +1,4 @@
-# 🖼️ Pixel Manipulation Image Encryption Tool 🛡️
+ # 🖼️ Pixel Manipulation Image Encryption Tool 🛡️
 
 Welcome to the Pixel Manipulation Image Encryption Tool! This tool allows you to encrypt and decrypt images using pixel manipulation techniques. It's a fun and simple way to secure your images!
 
@@ -40,7 +40,7 @@ The Encrypted and Decrypted image example is attached below for your refrence.
 
 ![encrypted_image](https://github.com/kauz07/PRODIGY_CS_02/assets/65854932/247d009f-ad47-4faa-9d1b-5f0f398c1d94)
 
-###Decrypted
+### Decrypted
 
 ![decrypted_image](https://github.com/kauz07/PRODIGY_CS_02/assets/65854932/92264b56-8c4a-4121-8107-7cc7d4e9a858)
 
